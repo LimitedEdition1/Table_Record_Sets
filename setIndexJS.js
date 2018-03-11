@@ -1,6 +1,7 @@
 
 /*
-Function: set_indexjs
+File: setIndexJS.js
+Function: add_rec_set_col
 Version: 1.0
 Date: 3/11/2018
 This function inserts a column in a HTML table that identifies rows
