@@ -1,11 +1,12 @@
 # Table_Record_Sets
-A JS script to insert a column in html table to identify rows with related data (distinct sets). 
+A JS script to insert a column in html table to identify rows with related data (distinct sets of records). 
 
-JS file: set_index_js.js
+JS file: setIndexJS.js
 
-This script requires an HTML table with an ID tag. Calling the function and passing arguments as defined. 
+This script requires a HTML table with an ID tag. Calling the function and passing arguments as defined. 
 Each parameter has a defualt value. If you omit all arguments, the defaults will be used. 
 Do not use the same column index for both set_col and comp_col.
+The function will return the number of record sets found.
 
 Example 1: 
 add_rec_set_col();
