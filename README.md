@@ -26,3 +26,5 @@ add_rec_set_col(myOtherTableId,2);
 
 This will use your table id, and column for sets. Default value for comp_col.
 Column for comparing records: comp_col: 1
+
+JS Fiddle example: https://jsfiddle.net/LimitedEdition1/ujz6fL4v/5/
